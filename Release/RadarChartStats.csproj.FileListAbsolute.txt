@@ -1,0 +1,13 @@
+C:\Users\iv408\source\repos\RadarChartStats\RadarChartStats\bin\Release\Database1.mdf
+C:\Users\iv408\source\repos\RadarChartStats\RadarChartStats\bin\Release\Database1_log.ldf
+C:\Users\iv408\source\repos\RadarChartStats\RadarChartStats\bin\Release\RadarChartStats.exe.config
+C:\Users\iv408\source\repos\RadarChartStats\RadarChartStats\bin\Release\RadarChartStats.exe
+C:\Users\iv408\source\repos\RadarChartStats\RadarChartStats\bin\Release\RadarChartStats.pdb
+C:\Users\iv408\source\repos\RadarChartStats\RadarChartStats\obj\Release\RadarChartStats.csproj.AssemblyReference.cache
+C:\Users\iv408\source\repos\RadarChartStats\RadarChartStats\obj\Release\RadarChartStats.csproj.SuggestedBindingRedirects.cache
+C:\Users\iv408\source\repos\RadarChartStats\RadarChartStats\obj\Release\RadarChartStats.Form1.resources
+C:\Users\iv408\source\repos\RadarChartStats\RadarChartStats\obj\Release\RadarChartStats.Properties.Resources.resources
+C:\Users\iv408\source\repos\RadarChartStats\RadarChartStats\obj\Release\RadarChartStats.csproj.GenerateResource.cache
+C:\Users\iv408\source\repos\RadarChartStats\RadarChartStats\obj\Release\RadarChartStats.csproj.CoreCompileInputs.cache
+C:\Users\iv408\source\repos\RadarChartStats\RadarChartStats\obj\Release\RadarChartStats.exe
+C:\Users\iv408\source\repos\RadarChartStats\RadarChartStats\obj\Release\RadarChartStats.pdb
